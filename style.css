@@ -1,0 +1,11 @@
+.heading{
+    font-size:20px;
+    margin:0px;
+    box-shadow:10px;
+    color:rgb(40, 19, 135)
+}
+canvas{
+    border: radius 20px;
+    border:5px solid white;
+    box-shadow:5px 5px 5px rgb(108, 231, 236);
+}
